@@ -88,7 +88,7 @@
     "vue-clipboards": "^1.2.1",
     "vue-loader": "^14.2.2",
     "vue-style-loader": "^3.1.2",
-    "vue-svg-loader": "0.3.0",
+    "vue-svg-loader": "0.16.0",
     "vue-template-compiler": "^2.5.13",
     "webpack": "^3.10.0",
     "webpack-bundle-analyzer": "^2.9.1",
